@@ -698,8 +698,10 @@ input.search-form:hover {
 }
 
 #services {
-  background: #000 url(../images/bg3.jpg);
-   background-size: cover; 
+  background-image: url(../images/lights-light3.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   width: 100%;
 }
 
 
