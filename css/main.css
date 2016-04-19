@@ -9,7 +9,7 @@ body {
   background: #fff;
   /*font-family: 'Open Sans', sans-serif;*/
   font-family: 'Raleway', sans-serif;
-  color:#4e4e4e;
+  color:#fff;
   line-height: 22px;
 }
 
@@ -427,7 +427,7 @@ input.search-form:hover {
 
 #main-slider .carousel .btn-slide {
   padding: 8px 20px;
-  background: #c52d2f;
+  background: #45795B;
   color: #fff;
   border-radius: 4px;
   margin-top: 25px;
@@ -698,10 +698,9 @@ input.search-form:hover {
 }
 
 #services {
-  background-image: url(../images/lights-light3.png);
-   background-size: contain;
+  background-image: url(../images/lights-light.jpg);
+   background-size: cover;
    background-repeat: no-repeat;
-   width: 100%;
 }
 
 
@@ -2608,5 +2607,9 @@ shortcodes page css
 }
 
 .img-what-do{
+  width: 100%;
+}
+
+.main-mac{
   width: 100%;
 }
